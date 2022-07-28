@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Assesment</string>
+    <string name="icon_jmo">icon jmo</string>
+    <string name="email_anda">Email Anda</string>
+    <string name="kata_sandi">Kata Sandi</string>
+    <string name="lupa_akun">Lupa Akun?</string>
+    <string name="lupa_kata_sandi">Lupa Kata Sandi?</string>
+    <string name="login">Login</string>
+    <string name="desc">Silakan login untuk masuk aplikasi</string>
+    <string name="create">Buat Akun</string>
+    <string name="version">4.2.0</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="beranda">Beranda</string>
+    <string name="berita">Berita</string>
+    <string name="kontak">Kontak</string>
+    <string name="profile">Profile Saya</string>
 </resources>

@@ -1,5 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/bg_input.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/btn_bg_color_selector.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/btn_primary_rounded.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/btn_rec_disable_rounded.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/btn_rec_normal_rounded.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/btn_rec_pressed_rounded.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/btn_rec_rounded.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/color_input.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/drawable/tab_color.xml" value="0.20052083333333334" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/layout/activity_login.xml" value="0.3333333333333333" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/layout/fragment_contact.xml" value="0.22" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/layout/fragment_home.xml" value="0.22" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/layout/fragment_news.xml" value="0.184375" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/layout/fragment_profile.xml" value="0.184375" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/layout/item_news.xml" value="0.3333333333333333" />
+        <entry key="..\:/Office/Assesment/app/src/main/res/menu/bottom_menu.xml" value="0.184375" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>

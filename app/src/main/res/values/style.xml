@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="TextInputLayout.Outline" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="borderWidth">1dp</item>
+        <item name="boxStrokeColor">@color/color_input</item>
+        <item name="boxCornerRadiusTopEnd">5dp</item>
+        <item name="boxCornerRadiusTopStart">5dp</item>
+        <item name="boxCornerRadiusBottomEnd">5dp</item>
+        <item name="boxCornerRadiusBottomStart">5dp</item>
+        <item name="colorControlActivated">@color/black</item>
+    </style>
+</resources>
